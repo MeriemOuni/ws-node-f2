@@ -1,0 +1,7 @@
+// console.log("hello world");
+// import a local module
+// const calcul = require("./localModule");
+// decl
+// let a = 2;
+// let b = 5;
+// console.log(`the sum of ${a} and ${b} is`, calcul.sum(a, b));
